@@ -95,4 +95,4 @@ src/main/java/com/erkyn/userapi/
 
 **Shynggys Yerkyn** — Java Backend Developer  
 4+ years of experience building enterprise systems  
-[Upwork Profile](https://www.upwork.com) | [LinkedIn](https://linkedin.com)
+[Upwork Profile](https://www.upwork.com/freelancers/~018fdbe1fac2e67ea8?mp_source=share) | [LinkedIn](www.linkedin.com/in/shynggys-yerkyn-a8a078254)
